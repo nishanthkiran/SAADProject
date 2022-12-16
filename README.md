@@ -11,10 +11,10 @@ java -jar ck.jar
 ![image](https://user-images.githubusercontent.com/47377412/208049196-84a4b549-70fb-4922-8c15-268c8a5b5ce8.png)
 
 After running the Jar file, we can run the python file(Main.py) located in the same directory as the jar file using the follwoing command:
-'''
-Python
-Python Main.py
-'''
+```python
+s = "Python Main.py"
+print s
+```
 
 
  
